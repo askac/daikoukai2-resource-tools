@@ -1,5 +1,7 @@
 # Typography observations
 
+English | [繁體中文（台灣）](typography.zh-TW.md)
+
 Small bitmap text depends on more than the nominal font size. The useful
 comparison is the visible ink inside a fixed cell and its relationship to nearby
 labels and borders.

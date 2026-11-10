@@ -1,9 +1,11 @@
 # Daikoukai2 Resource Tools
 
+English | [繁體中文（台灣）](README.zh-TW.md)
+
 Small tools for inspecting and rebuilding internal resource files used by
 Uncharted Waters II / Daikoukai Jidai II, with notes on the original package
-architecture and text presentation. This is a local preparation snapshot, not a
-complete localization installer or an official release.
+architecture and text presentation. The toolkit focuses on internal resource
+editing; a complete localization installer is outside its scope.
 
 For work with the original game, obtain your own legitimate copy from the
 [official Steam listing](https://store.steampowered.com/app/628170/).
@@ -110,7 +112,10 @@ in-game, emulator or controller validation.
 - [Resource formats and update strategy](docs/formats.md)
 - [Typography observations](docs/typography.md)
 - [Source provenance and licensing status](PROVENANCE.md)
+- [Agent working agreement](AGENT.md)
 
-The tools' license has not yet been selected. No open-source license is granted
-by this preparation snapshot. This project is not affiliated with or endorsed by
-the game's publisher. Names identify the subject of the tooling and observations.
+The original tool source, documentation and synthetic examples are licensed under
+the [MIT License](LICENSE). This license does not grant rights to third-party game
+content, translations, fonts or emulator software. This project is not affiliated
+with or endorsed by the game's publisher. Names identify the subject of the
+tooling and observations.

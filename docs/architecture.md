@@ -1,5 +1,7 @@
 # Observed package architecture
 
+English | [繁體中文（台灣）](architecture.zh-TW.md)
+
 This describes the inspected Windows edition of Uncharted Waters II distributed
 on Steam. It is an observation about that sample, not a specification for all
 Steam games, all releases of this game or every version of the host.

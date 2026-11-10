@@ -1,5 +1,7 @@
 # Resource formats and update strategy
 
+English | [繁體中文（台灣）](formats.zh-TW.md)
+
 The supported formats are internal game resources. File extensions alone do not
 identify a compatible layout. A file with unexpected headers, bounds or content
 is rejected before an output is written.

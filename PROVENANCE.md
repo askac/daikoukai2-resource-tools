@@ -1,5 +1,7 @@
 # Source provenance and licensing status
 
+English | [繁體中文（台灣）](PROVENANCE.zh-TW.md)
+
 This standalone repository was assembled on 2026-11-10 from locally developed
 resource-format tooling. It starts a new Git history and has no runtime dependency
 on the research workspace from which the format algorithms were selected.
@@ -22,12 +24,11 @@ The demo labels and pixel fixtures are newly constructed examples. Numeric
 format markers, codec constants and control-token syntax describe the supported
 formats; they are not a bundled original resource.
 
-## License pending
+## License
 
-The owner has not selected a license for this preparation snapshot. There is no
-`LICENSE` file and this repository should not be described as licensed open-source
-software until that decision is made. This status does not confer rights in
-third-party software, game content, translations or fonts.
+The original tool source, documentation and synthetic examples are licensed under
+the [MIT License](LICENSE), selected by the owner on 2026-11-10. This license does
+not confer rights in third-party software, game content, translations or fonts.
 
 No complete third-party dependency is vendored. The implementation uses Python's
 standard library. This provenance inventory is not an independent legal opinion
